@@ -19,3 +19,4 @@ I use VS Code, so I open Vs Code in admin mode and that works fine.
 
 # Sum: Returns the addition of 2 numbers
 # Fact: Returns the factorial of a number
+# Fact_Guard: Returns the factorial of a number (using guards instead of pattern matching)
