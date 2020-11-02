@@ -10,5 +10,8 @@ You can compile Haskell code with the keyword ghc followed by filename
 
 ex. ghc Sum.hs
 
+Running this will create an exe, a .hi, and a .o file
+
+
 If you are having any problems installing or running the file, try opening you command prompt/terminal in admin mode
 I use VS Code, so I open Vs Code in admin mode and that works fine.
