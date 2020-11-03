@@ -17,7 +17,7 @@ Running this will create an exe, a .hi, and a .o file
 If you are having any problems installing or running the file, try opening you command prompt/terminal in admin mode
 I use VS Code, so I open Vs Code in admin mode and that works fine.
 
-**Sum:** Returns the addition of 2 numbers
+**Sum:** Returns the sum of 2 numbers
 
 **Fact:** Returns the factorial of a number
 
