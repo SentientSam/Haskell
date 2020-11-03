@@ -22,3 +22,6 @@ I use VS Code, so I open Vs Code in admin mode and that works fine.
 **Fact:** Returns the factorial of a number
 
 **Fact_Guard:** Returns the factorial of a number (using guards instead of pattern matching)
+
+**Where:** Uses the where cause to break up a complex function into smaller parts to solve for the roots of an equation
+
